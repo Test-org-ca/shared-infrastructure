@@ -1,5 +1,0 @@
-# main.tf (Example placeholder for shared resources)
-resource "shared_container_registry" "global_registry" {
-  name     = "acme-global-registry"
-  location = "eastus"
-}
