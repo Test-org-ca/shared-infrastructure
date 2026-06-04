@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "aws" {
-  region = "us-centralt-1" # Make sure this matches your organization's region
+  region = "eu-central-1" # Make sure this matches your organization's region
 }
 
 # 1. Create a VPC
